@@ -1,4 +1,5 @@
 pomme
 banane
+ananas
 orange
 poire
