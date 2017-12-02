@@ -1,5 +1,4 @@
 pomme
 banane
 kaki
-orange
 poire
